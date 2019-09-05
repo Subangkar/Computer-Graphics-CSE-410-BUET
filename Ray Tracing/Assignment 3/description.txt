@@ -1,0 +1,83 @@
+3
+768
+
+4
+
+sphere 
+40.0 0.0 10.0 
+10.0 
+0.0 1.0 0.0
+0.4 0.2 0.2 0.2
+5
+
+sphere
+30.0 60.0 20.0 
+20.0
+0.0 0.0 1.0
+0.2 0.2 0.4 0.2
+30
+
+sphere
+-15.0 15.0 45.0
+15.0
+1.0 1.0 0.0
+0.4 0.3 0.1 0.2
+10
+
+pyramid
+0.0 0.0 0.0
+30.0 60
+1.0 0.0 0.0
+0.4 0.2 0.1 0.3
+5
+
+
+2
+70.0 70.0 70.0
+-70 70 70 
+
+
+
+
+
+input explanation:
+
+3 level of recursion
+768 number of pixels along both axes
+
+4 number of objects
+
+sphere type of object
+40.0 0.0 10.0 center
+10.0 radius
+0.0 1.0 0.0 color
+0.4 0.2 0.2 0.2 ambient diffuse specular reflection coefficient
+5 specular exponent
+
+1 
+30.0 60.0 20.0 
+20.0
+0.0 0.0 1.0
+0.4 0.1 0.3 0.2
+20
+
+1
+15.0 15.0 45.0
+15.0
+1.0 1.0 0.0
+0.4 0.3 0.1 0.2
+10
+
+2 pyramid type of object 
+0.0 0.0 0.0 lowest x y z ordinate
+30.0 60 length of base and height of pyramid 
+1.0 0.0 0.0 color
+0.4 0.2 0.1 0.3 ambient diffuse specular reflection coefficient
+5 specular exponent
+
+
+2 number of light sources
+
+70.0 70.0 70.0 position of first light source
+
+-70.0 70.0 70.0 position of second light source

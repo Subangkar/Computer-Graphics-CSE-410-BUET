@@ -1,0 +1,75 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+
+OpenGL/Demo Code/OpenGL_Visual_Studio/\.vs/OpenGl/v16/
+
+OpenGL/Demo Code/OpenGL_Visual_Studio/OpenGl/Debug/
+
+OpenGL/Demo Code/OpenGL_Visual_Studio/Debug/
+
+OpenGL/Assignment 1/OpenGL/Debug/
+
+OpenGL/Assignment 1/OpenGL/\.vs/OpenGL/v16/\.suo
+
+OpenGL/Assignment 1/OpenGL/\.vs/
+OpenGL/Assignment 1/OpenGL/cmake-build-debug/
+
+OpenGL/Assignment 1/OpenGL/\.idea/
+
+
+!OpenGL/Assignment 1/OpenGL/A1 Online/OpenGL.exe
+!OpenGL/Assignment 1/OpenGL/A2 Online/OpenGL.exe
+!OpenGL/Assignment 1/OpenGL/B1 Online/OpenGL.exe
+!OpenGL/Assignment 1/OpenGL/B2 Online/OpenGL.exe
+
+!OpenGL/Assignment 1/OpenGL/Old Onlines/A1 Online/A1.exe
+!OpenGL/Assignment 1/OpenGL/Old Onlines/A2 Online/A2 Online.exe
+!OpenGL/Assignment 1/OpenGL/Old Onlines/B1 Online/A1 Online.exe
+!OpenGL/Assignment 1/OpenGL/Old Onlines/B1 Online/B1 Online Bonus.exe
+**/\.vscode/
+
+*.log
+
+*.tmp
+
+Modeling Transformation/Assignment 2/\.idea/
+
+Modeling Transformation/Assignment 2/cmake-build-debug/
+
+Ray Tracing/**/out\.bmp
+
+Ray Tracing/**/output\.bmp
+
+Ray Tracing/Assignment 3/RayTracing/\.idea/
+
+Ray Tracing/Assignment 3/RayTracing/cmake-build-debug/
+
+Ray Tracing/Assignment 3/RayTracing/output1\.bmp

@@ -1,0 +1,2 @@
+Use the Arrow keys, Page Up, Page Down and Number keys 1 to 6 to control the camera.
+Pressing '0' will capture that position and generate out.bmp file.
